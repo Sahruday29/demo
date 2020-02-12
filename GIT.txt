@@ -1,0 +1,22 @@
+ git init
+git remote add origin {git url}
+git remote show origin
+ 
+
+git add README.md
+dir /a
+
+ git status
+ git add –A
+git commit -m "Initial commit"
+git push origin master
+
+git commit -m 
+
+
+
+
+
+Fetch URL: https://github.com/Sahruday29/demo.git
+  Push  URL: https://github.com/Sahruday29/demo.git
+  HEAD branch: (unknown)
